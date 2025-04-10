@@ -1,0 +1,110 @@
+[
+  {
+    "playerId": "P001",
+    "name": "Virat Kohli",
+    "country": "India",
+    "image": "https://i.ibb.co.com/Cs6kH68r/virat-kohli.png",
+    "type": "Batting",
+    "battingType": "Right-hand bat",
+    "biddingPrice": 2200000
+  },
+  {
+    "playerId": "P002",
+    "name": "Steve Smith",
+    "country": "Australia",
+    "image": "https://i.ibb.co.com/B23RpMKb/steve-smith.png",
+    "type": "Batting",
+    "battingType": "Right-hand bat",
+    "biddingPrice": 1900000
+  },
+  {
+    "playerId": "P003",
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "image": "https://i.ibb.co.com/QBZqrtw/babar-azam.jpg",
+    "type": "Batting",
+    "battingType": "Right-hand bat",
+    "biddingPrice": 1800000
+  },
+  {
+    "playerId": "P004",
+    "name": "Ben Stokes",
+    "country": "England",
+    "image": "https://i.ibb.co.com/BVC75xS3/ben-stokes.png",
+    "type": "All-Rounder",
+    "battingType": "Left-hand bat",
+    "biddingPrice": 2500000
+  },
+  {
+    "playerId": "P005",
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "image": "https://i.ibb.co.com/XfMGNby3/kane-williamson.jpg",
+    "type": "Batting",
+    "battingType": "Right-hand bat",
+    "biddingPrice": 1700000
+  },
+  {
+    "playerId": "P006",
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "image": "https://i.ibb.co.com/GfDKX306/Jasprit-Bumrah.webp",
+    "type": "Bowling",
+    "battingType": "Right-hand bat",
+    "biddingPrice": 2100000
+  },
+  {
+    "playerId": "P007",
+    "name": "Shaheen Afridi",
+    "country": "Pakistan",
+    "image": "https://i.ibb.co.com/R4GrzYgC/shaheen-afridi.png",
+    "type": "Bowling",
+    "battingType": "Left-hand bat",
+    "biddingPrice": 1600000
+  },
+  {
+    "playerId": "P008",
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "image": "https://i.ibb.co.com/S7RXBvs9/rashid-khan.png",
+    "type": "Bowling",
+    "battingType": "Right-hand bat",
+    "biddingPrice": 2300000
+  },
+  {
+    "playerId": "P009",
+    "name": "David Warner",
+    "country": "Australia",
+    "image": "https://i.ibb.co.com/LdjJyxKj/david-warner.jpg",
+    "type": "Batting",
+    "battingType": "Left-hand bat",
+    "biddingPrice": 2000000
+  },
+  {
+    "playerId": "P010",
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "image": "https://i.ibb.co.com/8gpM9ks4/sakib.jpg",
+    "type": "All-Rounder",
+    "battingType": "Left-hand bat",
+    "biddingPrice": 1900000
+  },
+  {
+    "playerId": "P011",
+    "name": "Quinton de Kock",
+    "country": "South Africa",
+    "image": "https://i.ibb.co.com/67313rLn/quinton-de-kock.png",
+    "type": "Batting",
+    "battingType": "Left-hand bat",
+    "biddingPrice": 1750000
+  },
+  {
+    "playerId": "P012",
+    "name": "Andre Russell",
+    "country": "West Indies",
+    "image": "https://i.ibb.co.com/3YLpswVv/andre-Russell.jpg",
+    "type": "All-Rounder",
+    "battingType": "Right-hand bat",
+    "biddingPrice": 2400000
+  }
+]
